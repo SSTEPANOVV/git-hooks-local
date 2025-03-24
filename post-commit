@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo Thansk for commiting $GIT_AUTHOR_NAME
+
